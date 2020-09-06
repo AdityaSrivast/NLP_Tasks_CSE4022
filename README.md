@@ -7,3 +7,5 @@ Tasks completed under Sharmila Banu Ma'am as a part of CSE4022 course
 - Week2: Lexicons, Stemming
 
 - Week3: Text processing pipeline, tweet tokenization, scraping data from web
+
+- Week4: COCA, Simple Text Classification(gender features), Vectorization and Similarity
