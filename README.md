@@ -9,3 +9,5 @@ Tasks completed under Sharmila Banu Ma'am as a part of CSE4022 course
 - Week3: Text processing pipeline, tweet tokenization, scraping data from web
 
 - Week4: COCA, Simple Text Classification(gender features), Vectorization and Similarity
+
+- Week5: FSA Adjective with mother tongue
