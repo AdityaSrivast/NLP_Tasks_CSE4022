@@ -1,6 +1,6 @@
 # NLP_Tasks_CSE4022
-
-Tasks completed under Sharmila Banu Ma'am as a part of CSE4022 course
+This repository consists of weekly wise tasks distribution provided by Ms. Sharmila Banu under the course Natural Language Processing -- CSE4022 
+This may be used only for educational purposes.
 
 - Week1: NLTK introduction, NLTK Corpus, Frequency Distribution, Conditional Freq. Distribution
 
